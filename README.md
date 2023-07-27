@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Here are my all Stacks</h1>
+<h1>Here are all my skills..</h1>
 <ol>
   <li>HTML</li>
   <li>CSS</li>
